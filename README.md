@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Omar Rezzak</h1>
+<h1 align="center">Hi there! 👋 I'm Omar</h1>
 <h3 align="center">Passionate System Developer | DevOps Enthusiast | .NET Specialist</h3>
 
 <p align="center">🌱 Currently on a journey to master Python</p>
